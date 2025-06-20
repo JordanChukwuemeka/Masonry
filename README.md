@@ -1,1 +1,1 @@
-# Masonry
+A responsive Masonry-style grid using HTML & CSS, inspired by Pinterest. Features dynamic card layouts with varying heights, optimized for visual appeal. Pure CSS (no JavaScript) with flexible columns and smooth transitions.
